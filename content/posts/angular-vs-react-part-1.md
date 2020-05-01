@@ -1,5 +1,8 @@
 ---
 title: "Angular vs React"
+description: "Experts say speed and size matter. I say there are more things to consider when pick the right front-end framework or library for your next project."
+tags: [angular, reactjs, frameworks, libraries]
+categories: [front-end development]
 date: 2020-04-30T22:50:16-06:00
 author: Alberto Garza
 draft: false
