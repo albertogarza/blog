@@ -22,7 +22,7 @@ When picking the right solution for your project, there are several aspects that
 * Surroundings
 * Previous experience
 
-In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore ["Surroundings"](angular-vs-react-part-2.md) and "Previous experience".
+In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore ["Surroundings"](../angular-vs-react-part-2) and "Previous experience".
 
 ## Framework vs Library
 
