@@ -16,13 +16,13 @@ Angular started it all and React is the hottest thing today. But how do they com
 
 ## What to consider
 
-When picking the right solution to your project, there are several aspects that must consider. It is very common to read experts analyze speed, community, and cocumentation as important aspects to consider before adopting a solution out of the many competing options. This is great advice, but in addition to that, I must add the following aspects that I consider are important to think about too:
+When picking the right solution for your project, there are several aspects that must consider. It is very common to read experts analyze speed, community, and documentation as important aspects to consider before adopting a solution out of the many competing options. This is great advice, but in addition to that, I must add the following aspects that I consider are important to think about too:
 
 * Framework vs Library
 * Surroundings
 * Previous experience
 
-In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore "Surroundings" and "Previous experience".
+In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore ["Surroundings"](angular-vs-react-part-2.md) and "Previous experience".
 
 ## Framework vs Library
 
@@ -32,7 +32,7 @@ The best and shortest way to describe a library and a framework is the following
 
 I must admit that this is a matter of personal coding taste. Over the years that I have been teaching Angular and React, I have come to realize that different programmers have different code taste buds. Not everybody likes to "kneel down" before a framework and "offer sacrifices to their" framework. Some like freedom or flexibility to do whatever they want.
 
-Ok, enough of religious references here. But read me out for a bit. Think of your last attempt to write some boiler plate code on your own just because you were too busy learning something new or because you thought you were too good to be using someone else's code. If you succeeded and enjoyed writing it and maintaining it, good for you! You must really love libraries or you must be writing your own! On the other hand, if that was a painful experience for you because you had deadlines to meet and a life to live, welcome to the club. You must really love frameworks. Wait, you don't yet? You should definitely look into them.
+Ok, enough religious references here. But read me out for a bit. Think of your last attempt to write some boilerplate code on your own just because you were too busy learning something new or because you thought you were too good to be using someone else's code. If you succeeded and enjoyed writing it and maintaining it, good for you! You must really love libraries or you must be writing your own! On the other hand, if that was a painful experience for you because you had deadlines to meet and a life to live, welcome to the club. You must really love frameworks. Wait, you don't yet? You should definitely look into them.
 
 Frameworks take some really long time to get used to. As said earlier, frameworks call your code. Because of this nature, you must understand how to use a framework to get the full benefits it has to offer.
 
@@ -58,7 +58,7 @@ Boy, that was hard, wasn't it?!? Well, let's do something easier now: let's look
 
 What evidences can we find in [Angular's Getting Started section](https://angular.io/start) that will help us determine whether or not it is a framework? 
 
-Frameworks are easy to spot because they take control away from you, the apps developer. The very first sign of this happening in Angular is when you first learn about [Components](https://angular.io/start#components):
+Frameworks are easy to spot because they take control away from you, the developer of the app. The very first sign of this happening in Angular is when you first learn about [Components](https://angular.io/start#components):
 
 > app-root (orange box) is the application shell. This is the first component to load and the parent of all other components. You can think of it as the base page.
 
@@ -107,10 +107,10 @@ ReactDOM.render(
 
 React is very clear about how your component gets attached or rendered. You call their `ReactDOM.render()` method and tell it where you want your component to be. 
 
-Did you catch the fact that you have to call React's code, and not the other way around? 
+Did you catch the fact that you have to call React's code and not the other way around? 
 
 React is full of examples like the above. There's rarely any "magic" going on with it. It usually does what you code it to do. Period.
 
 ## Conclusion
 
-Unless you've dabbled with a framework, it is really hard to grasp how it feels like coding in one (or coding to one). There's generally a very deep learning curve coming up to speed in a framework, but that investment pays itself off as the time goes by as frameworks tend to make developers more productive over time by saving them time from programming aspects that they would otherwise need to create plumbing for. Libraries are quick to get up to speed on them, but generally tend to absorb more of your time as repetitive coding tasks are your responsibility and this freedom (and ignorance) can lead you to dangerous patterns that will probably need some deep-dive fixing at some points in the life of the project.
+Unless you've dabbled with a framework, it is really hard to grasp how it feels like coding in one (or coding to one). There's generally a very deep learning curve coming up to speed in a framework, but that investment pays itself off as time goes by as frameworks tend to make developers more productive over time by saving them time from programming aspects that they would otherwise need to create plumbing for. Libraries are quick to get up to speed on them but generally tend to absorb more of your time as repetitive coding tasks are your responsibility and this freedom (and ignorance) can lead you to dangerous patterns that will probably need some deep-dive fixing at some points in the life of the project.
