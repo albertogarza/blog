@@ -21,7 +21,7 @@ When picking the right solution for your project, several aspects must be consid
 * Surroundings
 * Previous experience
 
-In this post, I will describe what I mean by "Surroundings". Look for the next post where I will explore "Previous experience". If you didn't catch part 1 of this series, make sure you check out also: "Framework vs Library".
+In this post, I will describe what I mean by "Surroundings". Look for the next post where I will explore ["Previous experience"](../angular-vs-react-part-3). If you didn't catch part 1 of this series, make sure you check out also: ["Framework vs Library"](../angular-vs-react-part-1).
 
 ## Surroundings
 

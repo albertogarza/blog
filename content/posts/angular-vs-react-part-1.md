@@ -1,5 +1,5 @@
 ---
-title: "Angular vs React"
+title: "Angular vs React - Part 1"
 description: "Experts say speed and size matter. I say there are more things to consider when pick the right front-end framework or library for your next project."
 tags: [angular, reactjs, frameworks, libraries]
 categories: [front-end development]
@@ -22,7 +22,7 @@ When picking the right solution for your project, there are several aspects that
 * Surroundings
 * Previous experience
 
-In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore ["Surroundings"](../angular-vs-react-part-2) and "Previous experience".
+In this post, I will describe what I mean by "Framework vs Library". Look for the next few posts where I will explore ["Surroundings"](../angular-vs-react-part-2) and ["Previous experience"](../angular-vs-react-part-3).
 
 ## Framework vs Library
 
