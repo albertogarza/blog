@@ -36,3 +36,6 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+
+[Permalinks]
+  posts = "posts/:title"
